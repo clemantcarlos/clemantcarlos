@@ -12,7 +12,7 @@ I've been working at companies for a long time, so my portfolio is a bit neglect
 
 I'm starting a education channel, so there will be many more public projects coming soon.
 
-###Fun Facts:
+##Fun Facts:
 - I have three dogs.
 - I like design and art a log.
 - *Hobbies*: anime, exercise, building things.
