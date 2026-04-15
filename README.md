@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there! :)
 
-<!--
-**clemantcarlos/clemantcarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Carlos, a System Analyst based on Venezuela.
 
-Here are some ideas to get you started:
+I like to design better processes in the companies i'm on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are i'll build it and shipt it.
+
+I worked with a bunch of technologies in the past but my favorite stack is react, typescript and nestJs.
+
+I've been working at companies for a long time, so my portfolio is a bit neglected (if not empty).
+
+I'm starting a education channel, so there will be many more public projects coming soon.
+
+###Fun Facts:
+- I have three dogs.
+- I like design and art a log.
+- *Hobbies*: anime, exercise, building things.
