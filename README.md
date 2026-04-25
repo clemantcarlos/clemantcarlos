@@ -14,5 +14,5 @@ I'm starting a education channel, so there will be many more public projects com
 
 ***Fun Facts:***
 - I have three dogs.
-- I like design and art a log.
+- I like design and art a lot.
 - *Hobbies*: anime, exercise, building things.
