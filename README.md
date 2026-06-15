@@ -24,12 +24,6 @@ I've been working at companies for a long time, so my portfolio is a bit neglect
 | Styling | Tailwind CSS, Styled Components |
 | Tools | Prisma, Vite, pnpm, Git |
 
-## 📫 Contact
-
-[!GitHub](https://github.com/your-username)
-[!LinkedIn](https://linkedin.com/in/your-profile)
-
-***
 <div align="center">
 
 Thanks for visiting!
