@@ -1,11 +1,6 @@
 <div align="center">
 
-👤 Carlos Clemant — GitHub Profile
-
-GitHub profile README repository
-
-[!Markdown](https://www.markdownguide.org/)
-[!License](LICENSE)
+#👤 Carlos Clemant — GitHub Profile
 
 </div>
 
@@ -32,7 +27,7 @@ I've been working at companies for a long time, so my portfolio is a bit neglect
 | Category | Technologies |
 |----------|-------------|
 | Frontend | React, TypeScript, Angular, Astro |
-| Backend | NestJS, Express, Node.js |
+| Backend | NestJS, Express, Node.js, Go |
 | Databases | PostgreSQL, MongoDB, MySQL, Supabase |
 | Styling | Tailwind CSS, Styled Components |
 | Tools | Prisma, Vite, pnpm, Git |
