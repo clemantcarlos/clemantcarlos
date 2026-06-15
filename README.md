@@ -1,11 +1,3 @@
-<div align="center">
-
-##👤 Carlos Clemant — GitHub Profile
-
-</div>
-
-***
-
 ## 📋 About
 
 Hi there! I'm Carlos, a System Analyst based in Venezuela.
