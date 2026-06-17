@@ -28,4 +28,5 @@ I've been working at companies for a long time, so my portfolio is a bit neglect
 
 Thanks for visiting!
 
+**NOTE: Most of my work has been under NDA for public and private sector clients, so I can't share the repositories. But I can describe the technical challenges—migrating legacy systems to React, building real-time APIs, implementing CI/CD—and the measurable outcomes. I'm also actively building personal projects to expand my public portfolio right now.**
 </div>
