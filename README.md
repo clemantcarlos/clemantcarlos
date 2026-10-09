@@ -19,9 +19,9 @@ I've been working at companies for a long time, so my portfolio is a bit neglect
 | Category | Technologies |
 |----------|-------------|
 | Frontend | React, TypeScript, Angular, Astro |
-| Backend | NestJS, Express, Node.js, Go |
+| Backend | NestJS, Express, Node.js, Go, python |
 | Databases | PostgreSQL, MongoDB, MySQL, Supabase |
-| Styling | Tailwind CSS, Styled Components |
+| Styling | Tailwind CSS, Styled Components, StoryBook |
 | Tools | Prisma, Vite, pnpm, Git |
 
 <div align="center">
